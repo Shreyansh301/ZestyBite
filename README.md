@@ -1,70 +1,72 @@
-# Getting Started with Create React App
+# Swiggy Frontend Clone
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a basic React application simulating the landing page of Swiggy, built using **React** and styled with **Tailwind CSS**.
+
+## Features
+- Basic Swiggy landing page structure
+- Responsive design using Tailwind CSS
+- React component structure for easy maintainability
+- Testing setup using React Testing Library
+
+## Screenshots
+
+
+## Installation
+
+Follow these steps to set up and run the project locally.
+
+### Prerequisites
+
+Make sure you have the following installed on your machine:
+
+- **Node.js** (version 14 or above)
+- **npm** (Node package manager, comes with Node.js)
+
+### Steps
+
+1. **Clone the repository**
+
+   ```bash
+   git clone https://github.com/Shreyansh301/ZestyBite.git
+   cd swiggy-landing
+   ```
+
+2. **Install dependencies**
+
+   After navigating to the project folder, install the required dependencies using npm:
+
+   ```bash
+   npm install
+   ```
+
+3. **Start the development server**
+
+   Once the dependencies are installed, start the application with the following command:
+
+   ```bash
+   npm start
+   ```
+
+   This will start a local development server, typically available at `http://localhost:3000/`.
+
 
 ## Available Scripts
 
 In the project directory, you can run:
 
-### `npm start`
+- **`npm start`**: Runs the app in development mode.
+- **`npm run build`**: Builds the app for production.
+- **`npm test`**: Launches the test runner.
+- **`npm run eject`**: Ejects the app from `create-react-app` to allow custom configurations.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Technology Stack
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- **React**: Frontend library for building user interfaces.
+- **Tailwind CSS**: Utility-first CSS framework for styling.
+- **React Icons**: For adding icons to the UI.
+- **React Testing Library**: For writing unit tests.
+- **MealDB API**: For fetching meal data.
 
-### `npm test`
+## 🤝 Contributing
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Contributions, issues, and feature requests are welcome! Feel free to open an issue or submit a pull request to improve the project.
