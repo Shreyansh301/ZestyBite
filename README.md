@@ -9,7 +9,11 @@ This is a basic React application simulating the landing page of Swiggy, built u
 - Testing setup using React Testing Library
 
 ## Screenshots
+<img width="1440" alt="Screenshot 2024-10-16 at 11 56 12 PM" src="https://github.com/user-attachments/assets/2fa3cde8-9ec3-4daf-9d5c-fdc46a6788ff">
 
+<img width="1440" alt="Screenshot 2024-10-16 at 11 56 38 PM" src="https://github.com/user-attachments/assets/5ccd449d-d50a-4c3c-8240-898f35874df0">
+
+<img width="1440" alt="Screenshot 2024-10-16 at 11 57 55 PM" src="https://github.com/user-attachments/assets/cae6c643-8853-445a-b643-ff0eb54960bb">
 
 ## Installation
 
